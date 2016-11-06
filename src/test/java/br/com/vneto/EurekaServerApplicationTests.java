@@ -19,7 +19,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 @SpringApplicationConfiguration(classes = EurekaServerApplication.class)
 @WebAppConfiguration
 @IntegrationTest("server.port=0")
-public class ApplicationTests {
+public class EurekaServerApplicationTests {
 
 	@Value("${local.server.port}")
 	private int port = 0;
