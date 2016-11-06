@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.vneto</groupId>
-	<artifactId>eureka-service</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>Eureka Service</name>
+	<name>Eureka Server</name>
 	<description>Central Service Registry demo project to allow service-discovery</description>
 
 	<parent>
